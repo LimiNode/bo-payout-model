@@ -141,9 +141,9 @@ else
 
 ### Полезные ссылки
 
-* Статистика процентов выплат брокера *OlympTrade*: [https://github.com/NewYaroslav/olymptrade_historical_data](https://github.com/NewYaroslav/olymptrade_historical_data)
-* Статистика процентов выплат брокера *Binary*: [https://github.com/NewYaroslav/binary_historical_data](https://github.com/NewYaroslav/binary_historical_data)
-* Котировки брокера *Binary*: [https://github.com/NewYaroslav/binary.com_history_quotes](https://github.com/NewYaroslav/binary.com_history_quotes)
-* Котировки брокера *IntradeBar*: [https://github.com/NewYaroslav/intrade-bar-historical-data](https://github.com/NewYaroslav/intrade-bar-historical-data)
+* Статистика процентов выплат брокера *OlympTrade*: [https://github.com/LimiNode/olymptrade_historical_data](https://github.com/LimiNode/olymptrade_historical_data)
+* Статистика процентов выплат брокера *Binary*: [https://github.com/LimiNode/binary_historical_data](https://github.com/LimiNode/binary_historical_data)
+* Котировки брокера *Binary*: [https://github.com/LimiNode/binary.com_history_quotes](https://github.com/LimiNode/binary.com_history_quotes)
+* Котировки брокера *IntradeBar*: [https://github.com/LimiNode/intrade-bar-historical-data](https://github.com/LimiNode/intrade-bar-historical-data)
 
 
